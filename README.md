@@ -4,4 +4,4 @@ InfoAidTech is one month virtual Internship Program.Below are the tasks complete
 Task-2 # Calculator
 This is user-friendly calculator developed using HTML,CSS,JS.
 
-Below is the webiste link:
+Below is the webiste link:https://dineshkuddana.github.io/aidTec_Calculator/
