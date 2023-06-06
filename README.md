@@ -13,3 +13,10 @@ Task-2 # Calculator
 This is user-friendly calculator developed using HTML,CSS,JS.
 
 Below is the webiste link:https://dineshkuddana.github.io/aidTec_Calculator/
+
+
+
+Task-3 #Temperature Convertor
+This is small UI on Conversion of temperature from one unit to other deveolped using HTML,CSS,JS.
+
+Below is the Website Link : 
