@@ -1,0 +1,35 @@
+
+body{
+    background-color: powderblue;
+}
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .input-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  select, input {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+  }
+  
+  #output-temperature {
+    background-color: #f8f8f8;
+  }
+  
